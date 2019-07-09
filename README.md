@@ -2,7 +2,7 @@
 
 ```
 const spongebobify = require('./spongebobify');
-console.log(spongebobify('Why would anyone ever use this?');
+console.log(spongebobify('Why would anyone do this?');
 ```
 output
 ```
